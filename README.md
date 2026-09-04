@@ -69,17 +69,15 @@ The dashboard includes visualizations for:
 
 ## Key Insights
 
-The dashboard enables users to explore important workforce patterns, including:
+* **Job involvement varies across genders**, with the dashboard enabling comparison of employee involvement levels between male and female employees.
+* **Job satisfaction is concentrated in the higher satisfaction categories**, indicating that a substantial portion of employees fall within the High and Very High satisfaction levels.
+* **Research & Development has the largest workforce representation** among the departments shown in the dashboard.
+* **Work-life balance differs across departments**, allowing HR to identify departments where employee work-life balance may require greater attention.
+* **Monthly income and years at the company show a positive relationship in the employee data**, with longer-tenured employees generally appearing across a range of income levels.
+* **Bachelor's and Master's degree holders represent major portions of the workforce**, highlighting the educational profile of employees.
+* **Marital status analysis shows the distribution of employees across different marital-status categories**, providing additional insight into workforce demographics.
+* **Interactive filters for Gender, Education Level, and Department** allow users to explore these patterns for specific employee groups rather than relying only on overall figures.
 
-- Differences in job involvement across genders.
-- Distribution of employees across different job satisfaction levels.
-- Work-life balance across departments.
-- Relationship between employee tenure and monthly income.
-- Distribution of employees across education levels.
-- Workforce composition based on marital status.
-- Overall HR metrics through interactive KPI cards.
-
-The interactive filters allow these patterns to be examined for different departments, genders, and education levels.
 
 ---
 
