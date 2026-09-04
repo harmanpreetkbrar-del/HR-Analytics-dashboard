@@ -2,34 +2,35 @@
 
 ## Project Overview
 
-The HR Analytics Dashboard is an interactive Excel-based dashboard designed to analyze and visualize key employee-related metrics.
+The HR Analytics Dashboard is an interactive Power BI dashboard developed to analyze and visualize key employee-related metrics.
 
-The dashboard provides an overview of employee demographics, job involvement, job satisfaction, work-life balance, education, marital status, monthly income, tenure, and standard working hours.
+The dashboard provides insights into employee demographics, job involvement, job satisfaction, work-life balance, education, marital status, monthly income, employee tenure, and standard working hours.
 
-The objective of the project is to transform HR data into clear and meaningful visual insights that can support better understanding of the workforce.
+The objective of the project is to transform HR data into meaningful visual insights and provide an interactive view of workforce characteristics that can support HR analysis and decision-making.
 
 ---
 
 ## Objectives
 
 - Analyze employee demographics and workforce composition.
-- Understand job involvement across genders.
-- Examine employee job satisfaction levels.
-- Analyze work-life balance across departments.
+- Examine job involvement across genders.
+- Analyze employee job satisfaction levels.
+- Compare work-life balance across departments.
 - Explore the relationship between employee tenure and monthly income.
-- Understand the distribution of employees across education levels and marital statuses.
+- Analyze employee distribution by education level and marital status.
 - Present key HR metrics through an interactive dashboard.
+- Enable users to explore the data using interactive filters.
 
 ---
 
 ## Tools & Technologies
 
-- Microsoft Excel
-- PivotTables
-- PivotCharts
-- Slicers
-- Data Analysis
-- Data Visualization
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Cleaning & Transformation
+- Data Modeling
+- Interactive Visualizations
 - Dashboard Design
 
 ---
@@ -38,7 +39,7 @@ The objective of the project is to transform HR data into clear and meaningful v
 
 ### Key Performance Indicators
 
-The dashboard highlights three major HR metrics:
+The dashboard highlights three key HR metrics:
 
 - Average Monthly Income
 - Average Work-Life Balance
@@ -46,7 +47,7 @@ The dashboard highlights three major HR metrics:
 
 ### Interactive Filters
 
-Users can filter the dashboard based on:
+Users can interact with the dashboard using filters for:
 
 - Gender
 - Education Level
@@ -68,24 +69,23 @@ The dashboard includes visualizations for:
 
 ## Key Insights
 
-The dashboard allows users to identify patterns in employee demographics, satisfaction, involvement, work-life balance, income, and tenure.
+The dashboard enables users to explore important workforce patterns, including:
 
-Some of the key observations available from the dashboard include:
+- Differences in job involvement across genders.
+- Distribution of employees across different job satisfaction levels.
+- Work-life balance across departments.
+- Relationship between employee tenure and monthly income.
+- Distribution of employees across education levels.
+- Workforce composition based on marital status.
+- Overall HR metrics through interactive KPI cards.
 
-- Employee job involvement can be compared across genders.
-- Job satisfaction levels can be examined based on employee count.
-- Work-life balance can be compared across different departments.
-- Employee tenure and monthly income can be explored through their relationship.
-- The workforce can be analyzed based on education and marital status.
-- Interactive filters allow users to examine these metrics for specific employee groups or departments.
+The interactive filters allow these patterns to be examined for different departments, genders, and education levels.
 
 ---
 
 ## Dashboard Preview
 
-The HR Analytics Dashboard provides an interactive view of the analyzed HR data.
-
-<img width="1313" height="737" alt="image" src="https://github.com/user-attachments/assets/f7c6726e-a90c-4c13-b26f-41e2ef4df95b" />
+<img width="1313" height="737" alt="Screenshot 2026-09-04 164151" src="https://github.com/user-attachments/assets/6a7c3eee-0653-4602-b194-6ef0dc7d1224" />
 
 
 ---
@@ -95,6 +95,6 @@ The HR Analytics Dashboard provides an interactive view of the analyzed HR data.
 ```text
 HR-Analytics-Dashboard/
 │
-├── HR_Analytics_Dashboard.xlsx
+├── HR_Analytics_Dashboard.pbix
 ├── HR_Analytics_Dashboard.png
 └── README.md
