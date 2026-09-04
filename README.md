@@ -89,12 +89,3 @@ The interactive filters allow these patterns to be examined for different depart
 
 
 ---
-
-## Project Structure
-
-```text
-HR-Analytics-Dashboard/
-│
-├── HR_Analytics_Dashboard.pbix
-├── HR_Analytics_Dashboard.png
-└── README.md
